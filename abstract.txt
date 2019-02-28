@@ -1,0 +1,9 @@
+Title:
+DRY out your workflow with the usethis package
+
+Abstract:
+The devtools package facilitates various aspects of package development. Never fear: devtools is alive and well and remains the public face of this functionality, but it has recently been split into a handful of more focused packages, under the hood. The usethis package now holds functionality related to package and project setup.
+
+I'll explain this "conscious uncoupling" of devtools and describe the current features of usethis specifically. The DRY concept -- "don't repeat yourself" -- is well accepted as a best practice for code and it's an equally effective way to approach your development workflow. The usethis package offers functions that enact key steps of the package development process in a programmatic and documented way. This is an attractive alternative to doing everything "by hand" or, more realistically, copying and modifying files from one of your other packages.
+
+usethis helps with initial setup and also with the sequential addition of features, such as specific dependencies (e.g. Rcpp, the pipe, the tidy eval toolkit) or practices (e.g. version control, testing, continuous integration).
