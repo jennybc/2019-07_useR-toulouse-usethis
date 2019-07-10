@@ -2,7 +2,7 @@
 
   * [usethis.r-lib.org](https://usethis.r-lib.org)
   * Talk at [useR! 2019 Toulouse](https://user2019.r-project.org)
-  * [PDF of slides]() *fill this in*
+  * [PDF of slides](DRY-out-workflow-usethis.pdf)
 
 ## Photo credits
 
