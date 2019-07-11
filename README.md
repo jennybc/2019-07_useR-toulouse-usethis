@@ -3,10 +3,13 @@
   * [usethis.r-lib.org](https://usethis.r-lib.org)
   * Talk at [useR! 2019 Toulouse](https://user2019.r-project.org)
   * [PDF of slides](DRY-out-workflow-usethis.pdf)
+  * Crowdsourced [thread describing how various useRs use usethis](https://github.com/r-lib/usethis/issues/787)
 
-## Photo credits
+## Image credits
 
 Raised hands photo by James Coleman on Unsplash <https://unsplash.com/photos/cevIeBV1A3I>
 
 Chris and Gwyneth <https://web.archive.org/web/20140328012304/http://goop.com/journal/be/conscious-uncoupling>
+
+Hex stickers logos for most [RStudio packages](https://github.com/rstudio/hex-stickers). Thanks Greg Swineheart for the mini devtools-verse hex wall.
 
